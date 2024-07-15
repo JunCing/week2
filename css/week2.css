@@ -182,7 +182,7 @@ h2{
 .coulom{
     padding:16px;
     border:1px solid #E3E3E3;
-    height: 100%;
+    box-shadow: 4px 4px 4px 0px #00000014;
 }
 .about_txt{
     width: 526px;
@@ -265,6 +265,7 @@ h2{
     width: 185px;
     border-radius: 32px;
     background:  #000;
+    /*margin-top: auto;*/
 }
 .projects_txt .button a{
     color: #fff;
